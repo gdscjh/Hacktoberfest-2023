@@ -2,3 +2,8 @@ td {
     width: 100px;
     height: 50px;
   }
+
+  table {
+    border-collapse: collapse;
+    border: 5px solid black;
+  }
