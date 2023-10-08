@@ -1,9 +1,14 @@
 td {
     width: 100px;
     height: 50px;
-  }
+}
 
-  table {
+table {
     border-collapse: collapse;
     border: 5px solid black;
-  }
+}
+
+.head {
+   text-align: center;
+   margin: 20px;
+}
