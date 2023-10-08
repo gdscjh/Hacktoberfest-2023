@@ -6,6 +6,7 @@ td {
 table {
     border-collapse: collapse;
     border: 5px solid black;
+    margin: 0 auto;
 }
 
 .head {
