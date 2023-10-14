@@ -46,3 +46,52 @@ Before you can contribute, you'll need a GitHub account. Go to [GitHub's website
 
 - Make your changes to the code.
 - Ensure your changes are consistent with the project's coding style.
+
+### 6. Committing and Pushing Changes
+
+- **Committing Changes:**
+  1. Open Git Bash in the project folder.
+  2. Type `git add .` and press enter.
+  3. Type `git commit -m "[commit_message]"`, replace [commit_message] with a brief message explaining your changes, and press enter.
+
+- **Pushing Changes:**
+  1. Type `git push origin [branch_name]`, replace [branch_name] with your branch name, and press enter.
+  2. Navigate to the GitHub page of your forked repository.
+  3. Click “Compare & pull request”.
+
+### 7. Creating a Pull Request (PR)
+
+- **What is a Pull Request?**
+  - A pull request lets you propose changes. It lets you notify others about the changes you've pushed to a branch in a repository.
+
+- **How to Create a PR:**
+  1. After clicking “Compare & pull request”, ensure that the base fork is the original repository and the head fork is your branch.
+  2. Add a title and describe your changes.
+  3. Click “Create pull request”.
+  
+### 8. Commenting and Review
+
+- Ensure to engage in the conversation if the reviewers ask for any changes.
+- Be polite and respect feedback given.
+- Once all reviews are positive, the repository owner will merge your PR.
+
+## 📘 Additional Guides and Supports
+
+If you’re new to git, consider reading these free resources:
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [GitHub Guides](https://guides.github.com/)
+
+## 🌈 Contribution Guidelines
+
+1. **Respectful Communication:** Always communicate respectfully and inclusively.
+2. **Pull Request (PR) Quality:** Ensure that your PR is of high quality with clear comments and adheres to our coding standards.
+3. **Issue Creation:** Before creating a new PR, create an issue that explains what you’re trying to do. 
+4. **Single-issue PR:** Keep your changes focused and contained to one issue per PR.
+5. **Commit Messages:** Write clear, concise commit messages that explain your changes.
+   
+## 🚀 Conclusion
+
+Thank you for considering contributing to our project. Your efforts help make our project better, and we appreciate any contributions, both big and small!
+
+Happy Coding! 🎉🎉🎉
+
