@@ -29,3 +29,32 @@ Hacktoberfest, sponsored by DigitalOcean, is a month-long celebration of open so
 
 ```plaintext
 Note: Ensure that your pull request adheres to the repository's contribution guidelines.
+```
+
+## Contribution Guidelines 📜
+
+Before you contribute, please ensure to read through our [Contribution Guidelines](https://github.com/gdscjh/Hacktoberfest-2023/blob/main/Docs/CONTRIBUTING.md). Adhering to these guidelines will ensure we maintain a quality and welcoming environment for all contributors.
+
+## Beginner-Friendly Issues 🐣
+
+Looking for a place to start? 🧐 Check out issues labeled as `beginner-friendly` or `good-first-issue` to find tasks that are suitable for developers who are new to open source.
+
+## Resources 📚
+
+- [GitHub Docs](https://docs.github.com/en)
+- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+- [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+## Let's Connect! 🌎
+
+- **Discord:** [Join our Discord](Discord-Link)
+- **LinkedIn:** [GDSC Jamia Hamdard LinkedIn](LinkedIn-Link)
+- **Twitter:** [@GDSCJamiaHamdard](Twitter-Link)
+
+## Acknowledgements 🙏
+
+Thank you to all the participants and sponsors who make Hacktoberfest possible. Let's continue to support and build the open-source community together!
+
+## License 📝
+
+This project is open source and available under the [MIT License](LICENSE).
