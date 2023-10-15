@@ -47,7 +47,7 @@ Looking for a place to start? 🧐 Check out issues labeled as `beginner-friendl
 
 ## Let's Connect! 🌎
 
-- **Discord:** [Join our Discord](Discord-Link)
+- **Discord:** [Join our Discord](https://discord.gg/kHmxvJVmaW)
 - **LinkedIn:** [GDSC Jamia Hamdard LinkedIn](LinkedIn-Link)
 - **Twitter:** [@GDSCJamiaHamdard](Twitter-Link)
 
