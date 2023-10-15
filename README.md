@@ -49,7 +49,7 @@ Looking for a place to start? 🧐 Check out issues labeled as `beginner-friendl
 
 - **Discord:** [Join our Discord](https://discord.gg/kHmxvJVmaW)
 - **LinkedIn:** [GDSC Jamia Hamdard LinkedIn](https://www.linkedin.com/company/gdsc-jh/)
-- **X:** [@GDSCJamiaHamdard](https://x.com/gdsc_jh)
+- **X:** [@gdsc_jh](https://x.com/gdsc_jh)
 
 ## Acknowledgements 🙏
 
