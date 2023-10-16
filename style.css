@@ -1,15 +1,84 @@
-td {
-    width: 100px;
-    height: 50px;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5cc65c;
+    margin: 0;
+    padding: 0;
 }
 
-table {
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #3498db;
+    color: white;
+    position: relative;
+}
+
+.header h1 {
+    font-size: 36px;
+    transition: color 0.5s; /* Transition for text color */
+}
+
+/* Loading animation */
+.loader {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 50%;
+    animation: pulse 1s linear infinite; /* Loading animation */
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+.header h1 {
+    font-size: 36px;
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.tg {
     border-collapse: collapse;
-    border: 5px solid black;
-    margin: 0 auto;
+    border-spacing: 0;
+    width: 80%;
+    transition: background-color 0.3s;
 }
 
-.head {
-   text-align: center;
-   margin: 20px;
+.tg td, .tg th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.tg th {
+    background-color: #3498db;
+    color: white;
+}
+
+.tg .tg-0pky {
+    text-align: left;
+    vertical-align: top;
+}
+
+.tg .tg-0lax {
+    text-align: left;
+    vertical-align: top;
+}
+
+/* Hover effect */
+.tg tbody tr:hover {
+    background-color: #a6ffa1;
+    transition: background-color 0.3s;
 }
