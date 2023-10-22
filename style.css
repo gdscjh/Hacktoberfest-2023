@@ -56,6 +56,14 @@ table {
     transform: scale(1.05);
 }
 
+.githubFork a h1{
+    color:white;
+    text-decoration: none;
+}
+.githubFork a{
+    text-decoration: none;
+}
+
 .head {
     display: flex;
     justify-content: space-around;
@@ -65,7 +73,7 @@ table {
     border-radius: 1rem;
     text-align: center;
     margin: 20px;
-    font-size: 4rem;
+    font-size: 5rem;
     color: white;
     text-shadow: 2px 2px 2rem white;
     font-weight: bold;
